@@ -1,0 +1,22 @@
+{
+  "name": "vue-cli-plgin-cow",
+  "version": "1.0.0",
+  "description": "Cow plugin from @vue/cli 3.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Patrick-red/vue-cli-plgin-cow.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "linyuanjie <linyuanjie.hikvision.com.cn>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Patrick-red/vue-cli-plgin-cow/issues"
+  },
+  "homepage": "https://github.com/Patrick-red/vue-cli-plgin-cow#readme"
+}
