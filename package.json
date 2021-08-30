@@ -1,22 +1,23 @@
 {
-  "name": "vue-cli-plgin-cow",
-  "version": "1.0.0",
-  "description": "Cow plugin from @vue/cli 3.0",
+  "name": "vue-cli-plugin-charts",
+  "version": "1.0.4",
+  "description": "vue-cli 3 plugin to add echarts",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Patrick-red/vue-cli-plgin-cow.git"
+    "url": "git+https://github.com/Patrick-red/vue-cli-plugin-charts.git"
   },
   "keywords": [
-    "vue"
+    "vue",
+    "vue-cli",
+    "echarts",
+    "plugin",
+    "cli"
   ],
-  "author": "linyuanjie <linyuanjie.hikvision.com.cn>",
+  "author": "linyuanjie",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Patrick-red/vue-cli-plgin-cow/issues"
+    "url": "https://github.com/Patrick-red/vue-cli-plugin-charts/issues"
   },
-  "homepage": "https://github.com/Patrick-red/vue-cli-plgin-cow#readme"
+  "homepage": "https://github.com/Patrick-red/vue-cli-plugin-charts#readme"
 }
