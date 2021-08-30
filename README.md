@@ -5,7 +5,7 @@ echarts plugin from `@vue/cli` 3.0.
 
 First you need to install `@vue/cli` globally (follow the instructions [here](https://cli.vuejs.org/)).
 
-Then create a project and add the Cow plugin:
+Then create a project and add the Charts plugin:
 
 ```bash
 vue create my-app
